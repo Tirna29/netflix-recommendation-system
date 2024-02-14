@@ -1,0 +1,22 @@
+Contributions by Tirna:
+- Configured the database on a MySQL server.
+- Implemented the KNN for recommendation system.
+- Worked on project goals and motivation.
+- Worked on the README.txt file.
+
+Contributions by Shubham: 
+- Configured the database on a MySQL server.
+- Implemented the KNN for recommendation system.
+- Worked on the project's abstract and implementation.
+- Worked on project conclusions.
+
+Contributions by Abhi: 
+- Pre-processed the data after loading data from the database.
+- Performed various data analysis and visualizations.
+- Worked on related work and motivation.
+- Worked on making the poster.
+
+Contributions by Mike:
+- Performed various data analysis and visualizations. 
+- Worked on the legal and ethical considerations.
+- Worked on making the poster.
